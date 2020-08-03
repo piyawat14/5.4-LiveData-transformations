@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GuessTheWordDataBinding.iml" filepath="$PROJECT_DIR$/.idea/modules/GuessTheWordDataBinding.iml" group="GuessTheWordDataBinding" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="GuessTheWordDataBinding/app" />
+    </modules>
+  </component>
+</project>
